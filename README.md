@@ -1,7 +1,6 @@
 # ML Trading Bot | Evaluation Report
 
 
-
 ### Table of Contents:
 
 1. [Original Baseline Algorithm](#originalprovided-baseline-algorithm)
